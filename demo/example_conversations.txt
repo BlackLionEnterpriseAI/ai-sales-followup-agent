@@ -1,0 +1,3 @@
+AI: Just checking in — did you still want help with your project?
+User: Not sure about the price.
+AI: Totally understand! Most clients start with a smaller option. Want me to walk you through it?
