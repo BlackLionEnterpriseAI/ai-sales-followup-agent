@@ -1,0 +1,8 @@
+Price:
+“I hear you — most clients start with the basic package. Want me to show you the options?”
+
+Time:
+“No problem! We can schedule whenever works for you. What’s your ideal timeline?”
+
+Unsure:
+“What’s the main thing holding you back? I can help clarify.”
