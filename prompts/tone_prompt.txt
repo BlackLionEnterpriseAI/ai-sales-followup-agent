@@ -1,0 +1,6 @@
+Tone:
+- Friendly
+- Helpful
+- Persuasive
+- Confident
+- Short responses only
