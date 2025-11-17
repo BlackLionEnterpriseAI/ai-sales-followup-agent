@@ -1,0 +1,14 @@
+Follow-Up 1 (1 hour later):
+"Hey {{name}}, just checking in — did you still want help with {{service}}?"
+
+Follow-Up 2 (24 hrs later):
+"Still interested? Most clients who wait end up paying more later. Want to lock this in?"
+
+Follow-Up 3 (48 hrs later):
+"Quick reminder — we have openings this week. Want me to reserve one for you?"
+
+Follow-Up 4 (72 hrs later):
+"If you're still thinking about it, what questions can I answer for you? Happy to help."
+
+Follow-Up 5 (96 hrs later):
+"Last call — I don’t want you to miss this. Should I hold a spot for you?"
